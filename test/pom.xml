@@ -14,16 +14,16 @@
 
 
     <dependencies>
-        <dependency>
-            <groupId>com.alibaba.alsc</groupId>
-            <artifactId>alsc-consume-center-client</artifactId>
-            <version>1.0.7-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>com.taobao.hsf</groupId>
-            <artifactId>hsf-all</artifactId>
-            <version>2.2.5.7-JDK8</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>com.alibaba.alsc</groupId>-->
+<!--            <artifactId>alsc-consume-center-client</artifactId>-->
+<!--            <version>1.0.7-SNAPSHOT</version>-->
+<!--        </dependency>-->
+<!--        <dependency>-->
+<!--            <groupId>com.taobao.hsf</groupId>-->
+<!--            <artifactId>hsf-all</artifactId>-->
+<!--            <version>2.2.5.7-JDK8</version>-->
+<!--        </dependency>-->
 
     </dependencies>
 

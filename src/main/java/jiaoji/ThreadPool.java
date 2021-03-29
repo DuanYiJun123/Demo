@@ -1,6 +1,6 @@
 package jiaoji;
 
-import groovy.util.logging.Slf4j;
+
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.LinkedBlockingQueue;
@@ -11,7 +11,7 @@ import java.util.concurrent.TimeUnit;
  * @Author yijun.dyj
  * @Date 2020/11/23 11:31 AM
  **/
-@Slf4j
+
 public class ThreadPool {
     /**
      * 核心线程数
