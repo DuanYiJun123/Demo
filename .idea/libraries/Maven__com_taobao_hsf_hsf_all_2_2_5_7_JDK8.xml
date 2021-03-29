@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.taobao.hsf:hsf-all:2.2.5.7-JDK8">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/taobao/hsf/hsf-all/2.2.5.7-JDK8/hsf-all-2.2.5.7-JDK8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/taobao/hsf/hsf-all/2.2.5.7-JDK8/hsf-all-2.2.5.7-JDK8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/taobao/hsf/hsf-all/2.2.5.7-JDK8/hsf-all-2.2.5.7-JDK8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

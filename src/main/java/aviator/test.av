@@ -1,0 +1,18 @@
+
+
+##let result=parserUtil.compareWithOneNest(feature,"prdInfos","settle","0","10");
+##println(type(result));
+##println(result)
+
+##let b=10;
+##prdInfos=featureUtil.getValueByKey(feature,"prdInfos");
+##println(prdInfos);
+##println(type(prdInfos));
+##println(jsonUtil.getJSonArrayValueByKeyForInteger(prdInfos,"settle"));
+
+
+##println(b==settle)
+
+let str="27QM7X8GU2Y,2YGL8YNUH6N,2WKS9QCJUZG,";
+let array=parserUtil.split(str,",");
+println(count(array))

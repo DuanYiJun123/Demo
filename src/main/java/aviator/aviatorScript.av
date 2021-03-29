@@ -1,0 +1,13 @@
+feature=";gspt:3;showPhoto:i2/O1CN0126toG0Gs2JRVS4u_!!6000000007720-0-alipicbeacon.jpg;LOCK_VERSION:1;"
+                    + "sfee:0;tfbuy:1;hall:2厅;cinemaPhone:0571-88155187,199;cityId:5829;pic:30;"
+                    + "sc_detail:2088621958695283-30-C;deviceId:Ah3hGIHOUP5pAYES7CuyEPT4FhI03EuDpO80urB_3AwE;"
+                    + "LOCK_TIME:1612163348;t_sc:2088621958695283-120-C;sqm:dianying.dy.home.tabbar;"
+                    + "cinemaAddress:淘票票二区自运营修改南极洲，淘票票研发中心3座2012;ds:1;duration:10;zero:false;result:true;api_flag:o;"
+                    + "cinemaName:淘票票测试影院二;ticketContent:{\"codes\"#3B{\"取票号\"#3B\"2021020116095995\"},"
+                    + "\"info\"#3B\"请使用取票号在影院取票机或柜台取票，如有问题致电淘宝客服：0571-88157838\"};showEndTime:1612267800000;scheduleFlag:12;"
+                    + "longitude:121.45586899458138;seatIds:1521|1531|1522|1532;lattude:31.165145189521425;"
+                    + "_order_version_:App_5.0;aliPassId:265814477244;showName:父亲与伊藤先生;seqno:2021020116095995;"
+                    + "utdid:XzU/8Kk/A6wDAOn0LJ9+wE8q;sName:淘票票（电影）;cinemaAct:2088621958695283;sellerAc:2088131226049505;"
+                    + "sUid:3935007972;isNew:1;env:pre;sptp:2;version:英语 2D;ttid:201200@movie_iphone_10.2.0.99;"
+                    + "cinemaPhoto:https#3B//taobaodianying.alicdn.com/cpic/1608795512387comPic.jpg;userTag:3;gsTp:2;ult:V1;";
+println(featureUtil.getValueByKey(feature,"cinemaName"))
